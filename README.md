@@ -18,8 +18,8 @@
 <br
 <br>
 
-- 🔭 I’m currently working on <kbd>C</kbd> <kbd>Java</kbd> 
-- 🌱 I’m currently learning <kbd>Spring MVC</kbd> <kbd>Hibernate</kbd> <kbd>Spring Boot</kbd>
+- 🔭 I’m currently working on  <kbd>Java</kbd> 
+- 🌱 I’m currently learning <kbd>Spring MVC</kbd> <kbd>Hibernate</kbd> <kbd>Spring Boot</kbd> <kbd>PHP</kbd>
 
 
 
