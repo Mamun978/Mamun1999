@@ -1,4 +1,4 @@
-### Hi there! This is Abdullah Al Mamun 👋
+### Hi there! This is Abdullah Al Mamun 
 
 ![](https://komarev.com/ghpvc/?username=Mamun1999)
 
