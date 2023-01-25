@@ -19,7 +19,7 @@
 <br>
 
 - 🔭 I’m currently working on  <kbd>Java</kbd> 
-- 🌱 I’m currently learning <kbd>Spring MVC</kbd> <kbd>Hibernate</kbd> <kbd>Spring Boot</kbd> <kbd>PHP</kbd> <kbd>Angular</kbd>
+- 🌱 I’m currently learning <kbd>Spring Boot</kbd> <kbd>Hibernate</kbd> <kbd>React</kbd> <kbd>Angular</kbd>
 
 
 
