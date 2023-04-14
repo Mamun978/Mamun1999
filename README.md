@@ -20,7 +20,7 @@
 
 - 🔭 Programming Language: <kbd>Java</kbd> 
 - 🔭 Backend framewroks: <kbd>Hibernate</kbd> <kbd>Spring Boot</kbd>
-- 🔭 Other things: OOP, Design Pattern, JDBC, Spring Core, Spring Data JPA, RESt Api, Spring Security, JWT
+- 🔭 Other things: OOP, Design Pattern, JDBC, Spring Core, Spring Data JPA, REST Api, Spring Security, JWT
 - 🌱 Frontend Technologies: <kbd>React</kbd> <kbd>Angular</kbd>
 
 
